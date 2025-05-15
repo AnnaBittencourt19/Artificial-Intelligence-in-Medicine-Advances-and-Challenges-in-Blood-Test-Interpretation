@@ -17,7 +17,6 @@ The project is developed using Streamlit and powered by cutting-edge Large Langu
 - [▶️ How to Use](#-how-to-use)
 - [📁 Data and Models](#-data-and-models)
 - [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 - [📬 Contact](#-contact)
 
 ---
