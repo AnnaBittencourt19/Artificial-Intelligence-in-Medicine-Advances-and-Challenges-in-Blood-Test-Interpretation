@@ -1,0 +1,13 @@
+streamlit
+torch
+numpy
+faiss-cpu
+transformers
+huggingface-hub
+langchain
+langchain-community
+langchain-huggingface
+pyngrok
+llama-cpp-python
+PyPDF
+tqdm
