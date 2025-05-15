@@ -44,9 +44,6 @@ What makes our app both powerful and easy to use:
 - **🧠 AI-Generated Clinical Explanations**  
   Powered by models like BioMistral-7B, the app fetches relevant content from medical literature and translates it into clear, readable insights. When the AI can't provide an answer, fallback responses are used.
 
-- **📝 Downloadable Reports**  
-  Get a full report with summaries, highlighted findings, and recommendations — ready to download and share.
-
 - **🧹 Modular and Scalable**  
   Expand it easily by adding new lab tests or medical documents.
 
